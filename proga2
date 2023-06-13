@@ -1,1 +1,9 @@
-
+print ("Введите по порядку этапы развития человека")
+name = input ("1 ")
+name1 = input("2 ")
+name2 = input("3 ")
+name3 = input("4 ")
+name4 = input("5 ")
+name5 = input("6 ")
+name6 = input("7 ")
+print (name, name1, name2, name3, name4, name5, name6, sep='=>')
