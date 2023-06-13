@@ -1,4 +1,4 @@
-name = input ("Vvedite imya pitomca ")
-name1 = input("vozrast ")
-name2 = input("tip ")
-print ("zdarova", name, "drevniy", name1, "i strachniy", name2,)
+name = input ("введите вид питомца и нажмите Enter ")
+name1 = input("введите возраст питомца и нажмите Enter ")
+name2 = input("введите кличку питомца и нажмите Enter ")
+print ("Этот", name, "по кличке", name2 +'.', "i strachniy" +':', name2,)
